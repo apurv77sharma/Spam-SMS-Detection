@@ -64,7 +64,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/himanshuu05/spam-sms-detection.git
+git clone https://github.com/apurv77sharma/Spam-SMS-Detection.git
 cd spam-sms-detection
 Install required libraries:
 
